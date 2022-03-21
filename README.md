@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **css**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/your-work/](https://codepen.io/your-work/)
+- 👨‍💻 All of my projects are available at [https://codepen.io/nsonika](https://codepen.io/nsonika)
 
 - 💬 Ask me about **html**
 
