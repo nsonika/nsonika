@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm sonika</h1>
 <h3 align="center">A aspiring web developer from India</h3>
 
-- 🔭 I’m currently working on **payment form**
-
 - 🌱 I’m currently learning **css**
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/nsonika](https://codepen.io/nsonika)
